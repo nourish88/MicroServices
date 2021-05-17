@@ -1,2 +1,0 @@
-Servþces 
-catalogAPI=> 5011
